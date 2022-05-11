@@ -10,7 +10,7 @@ G.AddData({
             desc:'@generates fast ticks every now and then<>A [meditater] is one with the land and the natural energy of the universe.',
             icon:[7,5],
             cost:{},
-            use:{'worker':1},
+            use:{'worker':0},
             upkeep:{'coin':0.2},
             effects:[
                 {type:'function',func:(me)=>{
