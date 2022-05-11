@@ -1,12 +1,12 @@
 G.AddData({
-	name:'Meditaters',
+	name:'monke',
 	author:'Owen "Ohead" Parker',
 	desc:'Adds a meditater unit, who generates fast ticks.',
 	engineVersion:1,
 	func:function()
 	{   
         new G.Unit({
-            name:'meditater',
+            name:'monke',
             desc:'@generates fast ticks every now and then<>A [meditater] is one with the land and the natural energy of the universe.',
             icon:[7,5],
             cost:{},
